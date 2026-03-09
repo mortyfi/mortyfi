@@ -6,7 +6,7 @@
 
 ---
 
-### 💫 About Me:
+### 💫 About Me:  https://mortyf1.netlify.app
 - 🎓 Student at **Kyiv-Pechersk Lyceum №171 "Leader"** (Top-tier specialized school in Ukraine).
 - 🚀 Founder of **Reliq** — a decentralized digital inheritance system using **Zero-Knowledge Proofs**.
 - 🏆 Two-time silver medalist of the **Kyiv Basketball Championship**.
